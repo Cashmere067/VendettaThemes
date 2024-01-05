@@ -12,7 +12,7 @@
             "#ffffff"
         ],
         "HEADER_SECONDARY": [
-            "#ed6a19"
+            "#e9bcc7"
         ],
         "TEXT_NORMAL": [
             "#ffffff"
@@ -21,10 +21,10 @@
             "#ed194b"
         ],
         "TEXT_LINK": [
-            "#e9bcc7"
+            "#ed6a19"
         ],
         "TEXT_DANGER": [
-            "#e9a4b5"
+            "#ed6a19"
         ],
         "INTERACTIVE_NORMAL": [
             "#ffffff"
