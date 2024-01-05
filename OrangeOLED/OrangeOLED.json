@@ -1,6 +1,6 @@
 {
     "name": "OrangeOLED",
-    "description": "Too many Orange!",
+    "description": "(Actually purple, you've been lied to)",
     "authors": [
         {
             "name": "Wizzy#0211",
@@ -21,7 +21,7 @@
             "#803293"
         ],
         "TEXT_LINK": [
-            "#803293"
+            "#a649bd"
         ],
         "TEXT_DANGER": [
             "#803293"
